@@ -2,7 +2,7 @@
 // @name         OldLander Remote Test
 // @namespace    https://github.com/OctoNezd/oldlander
 // @homepageURL  https://github.com/OctoNezd/oldlander
-// @downloadURL  https://github.com/OctoNezd/oldlander/releases/latest/download/oldlander.user.js
+// @downloadURL  https://github.com/hugues999/oldlander/raw/refs/heads/main/oldlander-optimized.user.js
 // @version      1.1.0.514
 // @description  Makes old reddit more usable on mobile devices.
 // @author       OctoNezd
